@@ -1,0 +1,6 @@
+streamlit 
+pandas 
+yahoo_fin
+datetime 
+yfinance 
+plotly
